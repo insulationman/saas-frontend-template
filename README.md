@@ -27,4 +27,4 @@ Be aware that this code is only made to demonstrate how these libraries can be u
 
 # Other suggestions
 
-- **Use a managed keycloak instance for authentication.** They have built in support for multi-tenancy (organizations) and much more. The instances can also be migrated to your own infrastructure if you want to. You can also use other identity providers that support openId Connect, such as Auth0, Okta, Azure AD etc. You can use a free tier for development and testing. Once you have the identity provider set up, you can configure the oidcConfig in main.tsx to use it.
+**Use a managed keycloak instance for authentication.** They have built in support for multi-tenancy (organizations) and much more. The instances can also be migrated to your own infrastructure if you want to. You can also use other identity providers that support openId Connect, such as Auth0, Okta, Azure AD etc. You can use a free tier for development and testing. Once you have the identity provider set up, you can configure the oidcConfig in main.tsx to use it.
