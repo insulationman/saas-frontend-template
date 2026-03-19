@@ -1,3 +1,5 @@
+<img src="src/src/assets/Cabanossy-Logo.svg" alt="Logo" width="80"/>
+
 # SAAS Frontend Template
 
 This is a template for a typical SAAS frontend. The key choices for this template is:
